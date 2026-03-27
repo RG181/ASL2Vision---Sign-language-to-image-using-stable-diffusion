@@ -7,7 +7,7 @@ import threading
 import os
 
 # ── CONFIG ───────────────────────────────────────────────────
-HF_TOKEN  = "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"   # ← your Hugging Face token
+HF_TOKEN  = "# your Hugging Face token"   # your Hugging Face token
 IMG_SIZE  = 224
 BOX_SIZE  = 250
 # ─────────────────────────────────────────────────────────────
